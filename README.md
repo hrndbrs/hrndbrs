@@ -1,16 +1,39 @@
-## Hi there 👋
+### Yo
 
-<!--
-**hrndbrs/hrndbrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+full-stack engineer who enjoys building things that actually get used — from enterprise loyalty platforms serving millions of members to small personal tools scratching my own itch.
 
-Here are some ideas to get you started:
+by day i work on large-scale Django systems (multi-tenant, event-driven, the whole thing). by night i build language learning apps, and productivity tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i use neovim, btw.
+
+---
+
+**things i'm comfortable with**
+
+```
+Frontend   →  TypeScript · React · Vue · Nuxt
+Backend    →  Python · Django · Go · Node.js
+Data       →  PostgreSQL · Redis
+```
+
+---
+
+**what i'm into lately**
+
+- architecting microservices in Go after doing monoliths for some time using Django
+- building language learning tools (turns out making something you'd use yourself is the best motivation)
+- enterprise-scale multi-tenancy patterns — the kind of problems that only show up at production load
+
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrndbrs&show_icons=true&hide_border=true&count_private=true&hide_title=true&theme=default" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrndbrs&layout=compact&hide_border=true&theme=default&langs_count=6" />
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hrndbrs&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+[site](https://hrndbrs.vercel.app) &nbsp;·&nbsp; based in Indonesia
