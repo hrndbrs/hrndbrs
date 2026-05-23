@@ -8,14 +8,17 @@ i use neovim, btw.
 
 ---
 
-**things i'm comfortable with**
+**stacks i'm trying to learn**
 
 ```
 Frontend   →  TypeScript · React · Vue · Nuxt
 Backend    →  Python · Django · Go · Node.js
 Data       →  PostgreSQL · Redis
 ```
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 ---
 
 **what i'm into lately**
@@ -23,12 +26,6 @@ Data       →  PostgreSQL · Redis
 - architecting microservices in Go after doing monoliths for some time using Django
 - building language learning tools (turns out making something you'd use yourself is the best motivation)
 - enterprise-scale multi-tenancy patterns — the kind of problems that only show up at production load
-
----
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrndbrs&show_icons=true&hide_border=true&count_private=true&hide_title=true&theme=default" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrndbrs&layout=compact&hide_border=true&theme=default&langs_count=6" />
 
 ---
 
