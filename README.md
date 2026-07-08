@@ -1,10 +1,6 @@
 ### Yo
 
-I'm a full-stack engineer who enjoys building things that actually get used — from enterprise loyalty platforms serving millions of members to small personal tools scratching my own itch.
-
-I'm currently working on large-scale Django systems.
-
-i use neovim, btw.
+I'm a software developer who enjoys building things that actually. And, I use neovim, btw.
 
 ---
 
@@ -29,14 +25,6 @@ Infra      →  Docker · (multi-tenant, event-driven systems)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-
----
-
-### What I'm into lately
-
-- **Architecting microservices in Go** after doing monoliths for some time using Django — relearning where service boundaries actually pay off vs. where they just add latency and ops overhead.
-- **Building language learning tools** — turns out making something you'd use yourself is the best motivation.
-- **Enterprise-scale multi-tenancy patterns** — the kind of problems that only show up at production load (noisy-neighbor isolation, per-tenant data partitioning, event-driven consistency).
 
 ---
 
