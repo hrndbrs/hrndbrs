@@ -1,6 +1,6 @@
 ### Yo
 
-I'm a software developer who enjoys building things that actually. And, I use neovim, btw.
+I'm a software developer who enjoys building things. And, I use neovim, btw.
 
 ---
 
