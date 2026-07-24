@@ -10,7 +10,7 @@ I'm a software developer who enjoys building things. And, I use neovim, btw.
 Frontend   →  TypeScript · React · Vue · Nuxt
 Backend    →  Python · Django · Go · Node.js
 Data       →  PostgreSQL · Redis
-Infra      →  Docker · (multi-tenant, event-driven systems)
+Infra      →  Docker
 ```
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
